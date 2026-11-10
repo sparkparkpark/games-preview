@@ -1,0 +1,8 @@
+:HL["/games-preview/_next/static/chunks/1qq52eesma4-s.css","style"]
+:HC["/",""]
+:HL["/games-preview/_next/static/chunks/1r-le7-_iyeth.css","style"]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":"play","h":96,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"sport","t":"d","k":"golf","s":["progress","stickers"]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"lang","t":"d","k":"ko","s":[]},"h":196720,"c":"$Q2"}]]
+0:{"b":"aWJZs6T9Xqw4arF1VsaET","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
