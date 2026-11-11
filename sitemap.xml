@@ -35,4 +35,9 @@
 <xhtml:link rel="alternate" hreflang="ko" href="https://sparkparkpark.github.io/games-preview/ko/icehockey/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://sparkparkpark.github.io/games-preview/en/icehockey/" />
 </url>
+<url>
+<loc>https://sparkparkpark.github.io/games-preview/ko/terms/</loc>
+<xhtml:link rel="alternate" hreflang="ko" href="https://sparkparkpark.github.io/games-preview/ko/terms/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://sparkparkpark.github.io/games-preview/en/terms/" />
+</url>
 </urlset>
