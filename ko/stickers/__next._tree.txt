@@ -1,8 +1,8 @@
 :HL["/games-preview/_next/static/chunks/1qq52eesma4-s.css","style"]
 :HC["/",""]
-:HL["/games-preview/_next/static/chunks/2wmgg1axa6t59.css","style"]
-:HL["/games-preview/_next/static/chunks/1r-le7-_iyeth.css","style"]
+:HL["/games-preview/_next/static/chunks/3z5pobhssmysk.css","style"]
+:HL["/games-preview/_next/static/chunks/17p-4ty7d2spy.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"stickers","h":96,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"lang","t":"d","k":"ko","s":[]},"h":65648,"c":"$Q2"}]]
-0:{"b":"6jSFo3XD17DZz7BC8Td4o","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"2cXn-uKlti9OJqbWACXB2","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
