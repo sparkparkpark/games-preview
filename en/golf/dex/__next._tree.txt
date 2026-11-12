@@ -1,9 +1,8 @@
-:HL["/games-preview/_next/static/chunks/1qq52eesma4-s.css","style"]
+:HL["/games-preview/_next/static/chunks/0-f2k9_j7m6k-.css","style"]
 :HC["/",""]
-:HL["/games-preview/_next/static/chunks/2hbyoj9jkyp-3.css","style"]
-:HL["/games-preview/_next/static/chunks/3z5pobhssmysk.css","style"]
+:HL["/games-preview/_next/static/chunks/06fu2t8vp94_r.css","style"]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":"dex","h":96,"c":"$Q4"}]]
 2:[["children",{"s":{"n":"sport","t":"d","k":"golf","s":["progress","stickers","terms"]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"lang","t":"d","k":"en","s":[]},"h":196720,"c":"$Q2"}]]
-0:{"b":"rCA9oTeSkxd_dSuuY6c46","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"R-bIZ_RP2bwA0LXVJiYFb","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
