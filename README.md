@@ -1,4 +1,4 @@
-# 룰루 (Rulu) · 검수용 미리보기
+# 롤롤 (lollol) · 검수용 미리보기
 
 https://sparkparkpark.github.io/games-preview/
 
